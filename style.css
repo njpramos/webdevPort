@@ -1,0 +1,50 @@
+body {
+	background: url(bg.jpeg) no-repeat center fixed;
+	background-size: cover;
+	font-family: 'Cinzel', sans-serif;
+	text-align: center;
+	overflow: hidden;
+}
+
+
+.me {
+	height: 200px;
+	border-radius: 50%;
+	border: 3px solid red;
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	color: red;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2 {
+	color: #ffd700;
+	font-size: 26px;
+	margin-top: 20px;
+	letter-spacing: 5px;
+}
+
+hr {
+	background-color: #fff;
+	width: 90px;
+	margin-top: 20px;
+}
+
+.bio {
+	color: #fff;
+	font-size: 16px;
+	margin-top: 20px;
+	width: 80%;
+	line-height: 1.5em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+
